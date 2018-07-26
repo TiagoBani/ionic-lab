@@ -1,2 +1,2 @@
 # ionic-lab
-Laboratorio App Ionic Sidebar 
+Laboratorio App Ionic Sidebar
